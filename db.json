@@ -22,11 +22,12 @@
     },
     { "id": 2,
       "nome": "Telemática",
-      "periodos": 6,
-      "instituicao": "Instituto Federal da Paraíba(IFPB)",
-      "graduacao": "Tecnólogo",
-      "polo":"Campina Grande - PB",
-      "descricao":" "
+	"periodos":"6 semestres",
+	"graduacao": "Tecnólogo",
+	"instituicao": "Instituto Federal da Paraíba (IFPB)",
+	"polo": "Campina Grande - PB",
+	"descricao": "O curso de Telemática do IFPB forma profissionais especializados na integração de telecomunicações e informática, abrangendo áreas como redes de computadores, transmissão de dados, telefonia, comunicação digital e sistemas de controle."
+
     },    
     {  "id": 3,
         "nome":"Ciência da Computação",
