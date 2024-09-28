@@ -6,6 +6,11 @@
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
   "profile": { "name": "typicode" },
+
+
+
+
+	
    "cursos": [
     {   "id": 1,
         "nome": "Analise e Desenvolvimento de Sistemas",
@@ -25,15 +30,20 @@
     },    
     {  "id": 3,
         "nome":"Ciência da Computação",
-	      "periodos":8,
-	      "graduacao":"Bacharelado",
-	      "instituicao": "Universidade Federal da Paraíba (UFPB)",
-	      "polo": "João Pessoa - PB",
-	      "descricao":  "O curso de Ciência da Computação forma profissionais para atuar no desenvolvimento de sistemas computacionais, análise de dados, inteligência artificial, e programação. Oferece sólida formação em algoritmos, estrutura de dados e redes de computadores."
+	"periodos":8,
+	"graduacao":"Bacharelado",
+	"instituicao": "Universidade Federal da Paraíba (UFPB)",
+	"polo": "João Pessoa - PB",
+	"descricao":  "O curso de Ciência da Computação forma profissionais para atuar no desenvolvimento de sistemas computacionais, análise de dados, inteligência artificial, e programação. Oferece sólida formação em algoritmos, estrutura de dados e redes de computadores."
       
     },
     {  "id": 4,
-        "nome":"Sistemas de Informação"
+        "nome":"Sistemas de Informação",
+	"periodos": 8,
+	"graduacao": "Bacharelado",
+	"instituicao": "UNIFACISA (Centro de ensino)",
+	"polo": "Campina Grande - PB",
+	"descricao":"O curso de Sistemas de Informação da UNIFACISA forma profissionais capazes de projetar, desenvolver e gerenciar sistemas computacionais e soluções tecnológicas voltadas para o processamento e análise de informações. O curso oferece uma base sólida em programação, banco de dados, redes de computadores, e gestão de TI. Além disso, o curso inclui disciplinas sobre inovação tecnológica, empreendedorismo, segurança da informação e inteligência artificial."
       
     },
     {  "id": 5,
