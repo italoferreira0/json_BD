@@ -5,5 +5,38 @@
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
-  "profile": { "name": "typicode" }
+  "profile": { "name": "typicode" },
+   "cursos": [
+    {   "id": 1,
+        "nome": "Analise e Desenvolvimento de Sistemas",
+        "periodos": 4,
+        "graduacao": "Tecnólogo",
+        "instituicao": "Faculdade Maurício de Nassau",
+        "polo":"Campina Grande - PB",
+        "descricao":"O curso de Análise e Desenvolvimento de Sistemas (ADS) é uma graduação tecnológica voltada para a formação de profissionais capacitados para projetar, implementar, testar e manter sistemas de software. Ele é geralmente oferecido em instituições de ensino superior e tem duração de 2 a 3 anos."
+    },
+    { "id": 2,
+      "nome": "Telemática",
+      "periodos": 6,
+      "instituicao": "Instituto Federal da Paraíba(IFPB)",
+      "graduacao": "Tecnólogo",
+      "polo":"Campina Grande - PB",
+      "descricao":" "
+    },    
+    {  "id": 3,
+        "nome":"Ciência da Computação"
+      
+    },
+    {  "id": 4,
+        "nome":"Sistemas de Informação"
+      
+    },
+    {  "id": 5,
+        "nome":"Engenharia da Computação"
+      
+      
+    }
+   
+    
+  ]
 }
