@@ -24,7 +24,12 @@
       "descricao":" "
     },    
     {  "id": 3,
-        "nome":"Ciência da Computação"
+        "nome":"Ciência da Computação",
+	      "periodos":8,
+	      "graduacao":"Bacharelado",
+	      "instituicao": "Universidade Federal da Paraíba (UFPB)",
+	      "polo": "João Pessoa - PB",
+	      "descricao":  "O curso de Ciência da Computação forma profissionais para atuar no desenvolvimento de sistemas computacionais, análise de dados, inteligência artificial, e programação. Oferece sólida formação em algoritmos, estrutura de dados e redes de computadores."
       
     },
     {  "id": 4,
