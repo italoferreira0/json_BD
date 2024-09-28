@@ -47,9 +47,13 @@
       
     },
     {  "id": 5,
-        "nome":"Engenharia da Computação"
-      
-      
+        "nome":"Engenharia da Computação",
+	"periodos": "10 semestres",
+	"graduacao": "Bacharelado",
+	"instituicao":"Universidade Federal de Campina Grande (UFCG)",
+	"polo": "Campina Grande - PB",
+	"descricao": "Focado na construção de sistemas computacionais e seus componentes, o curso abrange desde a concepção de hardware até o desenvolvimento de software. Inclui disciplinas sobre eletrônica, sistemas digitais e robótica."
+	    
     }
    
     
